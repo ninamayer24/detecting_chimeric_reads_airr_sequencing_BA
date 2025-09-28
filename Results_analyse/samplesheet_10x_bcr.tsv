@@ -1,0 +1,3 @@
+sample_id	filename_R1	filename_R2	subject_id	species	tissue	pcr_target_locus	single_cell	sex	age	biomaterial_provider
+PBMC_10k_BCR_L001	/home/zxozk31/reference_data/sc5p_pbmc10k/bcr/sc5p_v2_hs_PBMC_10k_b_fastqs/sc5p_v2_hs_PBMC_10k_b_S1_L001_R1_001.fastq.gz	/home/zxozk31/reference_data/sc5p_pbmc10k/bcr/sc5p_v2_hs_PBMC_10k_b_fastqs/sc5p_v2_hs_PBMC_10k_b_S1_L001_R2_001.fastq.gz	S01	human	PBMC	IG	TRUE	NA	NA	10xgenomics
+PBMC_10k_BCR_L002	/home/zxozk31/reference_data/sc5p_pbmc10k/bcr/sc5p_v2_hs_PBMC_10k_b_fastqs/sc5p_v2_hs_PBMC_10k_b_S1_L002_R1_001.fastq.gz	/home/zxozk31/reference_data/sc5p_pbmc10k/bcr/sc5p_v2_hs_PBMC_10k_b_fastqs/sc5p_v2_hs_PBMC_10k_b_S1_L002_R2_001.fastq.gz	S01	human	PBMC	IG	TRUE	NA	NA	10xgenomics
